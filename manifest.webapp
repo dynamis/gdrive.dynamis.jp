@@ -1,0 +1,11 @@
+{
+  "name": "Google Drive Web",
+  "description": "Load Google Drive on the Web",
+  "launch_path": "/",
+  "icons": {
+    "32":  "/icons/gdrive32.png",
+    "64":  "/icons/gdrive64.png",
+    "128": "/icons/gdrive128.png",
+    "256": "/icons/gdrive256.png"
+  }
+}
